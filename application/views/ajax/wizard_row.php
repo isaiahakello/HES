@@ -1,0 +1,1 @@
+<input type="text"  id="rowid" name="rowid" value="<?php echo $id;?>"/>
